@@ -9,8 +9,12 @@
   },
   "dependencies": {
     "ant-design-vue": "^1.7.4",
+    "axios": "^0.21.1",
     "core-js": "^3.6.5",
+    "gapi-script": "^1.2.0",
+    "moment": "^2.29.1",
     "vue": "^2.6.11",
+    "vue-google-login": "^2.0.5",
     "vue-router": "^3.5.1"
   },
   "devDependencies": {
@@ -22,6 +26,10 @@
     "babel-plugin-import": "^1.13.3",
     "eslint": "^6.7.2",
     "eslint-plugin-vue": "^6.2.2",
+    "less": "^4.1.1",
+    "less-loader": "^10.0.0",
+    "sass": "^1.35.1",
+    "sass-loader": "^10",
     "vue-template-compiler": "^2.6.11"
   },
   "eslintConfig": {
